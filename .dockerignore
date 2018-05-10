@@ -1,0 +1,17 @@
+### git files
+.git
+.gitignore
+README.md
+
+Dockerfile
+.dockerignore
+
+### Node template
+# Logs
+logs
+*.log
+npm-debug.log*
+node_modules
+build
+.idea
+.vscode
